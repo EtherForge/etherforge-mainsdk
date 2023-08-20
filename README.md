@@ -3,6 +3,8 @@
 ![npm](https://img.shields.io/badge/etherforge_1.0-beta-orange)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 ![pipeline status](https://img.shields.io/badge/build-passed-green)
+![repo size](https://img.shields.io/badge/repo%20size-368%20MB-red)
+
 
 # EtherForge Main Blockchain
 The main EtherForge code, a branch from LiskSDK.
