@@ -1,9 +1,9 @@
 ![Logo](./docs/easiest-main.jpg)
 
-# EtherForge Main Blockchain
-The main EtherForge code, a branch from LiskSDK.
 ![npm](https://img.shields.io/badge/etherforge_1.0-beta-orange)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+# EtherForge Main Blockchain
+The main EtherForge code, a branch from LiskSDK.
 
 ## What is the EtherForge?
 This is a cryptotoken based on LiskSDK, which is the easiest token in terms of use: transfers, sending/verifying the signature of messages, information about the blockchain. So many functions, but so simple.
