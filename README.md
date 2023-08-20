@@ -1,4 +1,4 @@
-![Logo](./docs/easiest-main.png)
+![Logo](./docs/easiest-main.jpg)
 
 # EtherForge Main Blockchain
 The main EtherForge code, a branch from LiskSDK.
